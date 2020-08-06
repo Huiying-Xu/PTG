@@ -25,7 +25,8 @@ The Simple Process-Led Algorithms for Simulating Habitats (SPLASH) model (Davis 
 - Site ID
 - the growing-season mean value of temperature (Tg), where growing season is defined as the period when the daily temperature is above 0 ˚C
 - mean daytime temperature in July (TdJ)
-- growing-season mean vapour pressure deficit (D0), where growing season is defined as the period when the daily temperature is above 0 ˚C
+- growing-season mean vapour pressure deficit (D0) calculated using Tg, where growing season is defined as the period when the daily temperature is above 0 ˚C
+- vapour pressure deficit in July (D TdJ) calculated using TdJ
 - growing-season mean photosynthetically active radiation (R0), where growing season is defined as the period when the daily temperature is above 0 ˚C
 - the ratio of growing-season length to the number of days in the year (f), where growing season is defined as the period when the daily temperature is above 0 ˚C
 - the leaf-area-index weighted R0 (RLAI), where leaf area index was the mean value for July and August 2018 and 2019 
