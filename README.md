@@ -1,5 +1,5 @@
 # Leaf traits data from Gongga Mountain, China
-This file  is the git repository for plant trait and climate data used in the paper: Xu et al. (under review in Tree Physiology). The repository provides plant traits and climate data from 18 sites along a 3000-m elevation gradient in the Gongga Mountain region, China. 
+This is the git repository for plant trait and climate data used in the paper: Xu et al. (under review in Tree Physiology). The repository provides plant traits and climate data from 18 sites along a 3000-m elevation gradient in the Gongga Mountain region, China. 
 ## Project information
 This project reports on leaf traits of plants and climate data at 18 sites from 1143 to 4361 m in Gongga Mountain region (29° 22' to 29° 55' N and 101° 1' to 102° 9' E). The trait data were collected during the active growing season in 2018 and 2019, as part of a Chinese research project. The vegetation type changes from deciduous broad-leaved forest dominated by Betulaceae, Urticaceae, Caprifoliaceae and Rosaceae, to evergreen needle-leaved forest and deciduous shrubland dominated by Pinaceae and/or Rosaceae and Ericaceae with increasing elevation.
 ## Data
