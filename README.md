@@ -4,7 +4,8 @@ This is the git repository for plant trait and climate data used in the paper: X
 This project reports on leaf traits of plants and climate data at 18 sites from 1143 to 4361 m in Gongga Mountain region (29° 22' to 29° 55' N and 101° 1' to 102° 9' E). The trait data were collected during the active growing season in 2018 and 2019, as part of a Chinese research project. The vegetation type changes from deciduous broad-leaved forest dominated by Betulaceae, Urticaceae, Caprifoliaceae and Rosaceae, to evergreen needle-leaved forest and deciduous shrubland dominated by Pinaceae and/or Rosaceae and Ericaceae with increasing elevation.
 ## Data
 - The data are provided in the form of three tables connected by ‘Site ID’. The tables are (1) site information, (2) trait values by species at each site, and (3) climate data for each site. Each file is a csv file
-- he dataset is stored on **Leaf traits data in Gongga Mountain, China**: [Zenodo](link here)
+- The dataset is stored on **Leaf traits data in Gongga Mountain, China**: [Zenodo](https://zenodo.org/record/3974047#.XyvX_BMzblw), which can be downloaded freely
+- The dataset is released under a Creative Commons BY licence. When using the dataset, we kindly request that you cite the DOI, recognizing the hard work that went into collecting the data and the authors’ willingness to make it publicly available.
 ### *Site Table*
 - Site ID
 - Longitude and latitude (decimal degrees)
@@ -34,8 +35,7 @@ The Simple Process-Led Algorithms for Simulating Habitats (SPLASH) model (Davis 
 - Leaf area index from July and August in 2018 and 2019 was derived from the MODIS leaf area index product [MCD15A3H](https://modis.gsfc.nasa.gov/)
 - All the climate data were the average of values from January 2015 to December 2017
 ## Code
-- The data was processed and analysed using R. All code is stored on [github](https://github.com/Huiying-Xu/PTG/tree/master/code)
-- To download data, the code in `download.R` can be used. 
+- The data was processed and analysed using R. The code is stored on [github](https://github.com/Huiying-Xu/PTG/tree/master/code)
 - The key code to produce predicted trait values in Xu et al. (under review in Tree Physiology) is in `predict.R`
 ## Reference
 Cornelissen, J. H. C., Lavorel, S., Garnier, E. S., Buchmann, N., and Gurvich: A handbook of protocols for standardised and easy measurement of plant functional traits worldwide, Aust. J. Bot., 51, 335-380, 2003.
