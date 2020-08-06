@@ -34,7 +34,7 @@ The Simple Process-Led Algorithms for Simulating Habitats (SPLASH) model (Davis 
 - Leaf area index from July and August in 2018 and 2019 was derived from the MODIS leaf area index product [MCD15A3H](https://modis.gsfc.nasa.gov/)
 - All the climate data were the average of values from January 2015 to December 2017
 ## Code
-- The data was processed and analysed using R. All code is stored on [github](https://github.com/Huiying-Xu/PTG/tree/master/photosynthesis)
+- The data was processed and analysed using R. All code is stored on [github](https://github.com/Huiying-Xu/PTG/tree/master/code)
 - To download data, the code in `download.R` can be used. 
 - The key code to produce predicted trait values in Xu et al. (under review in Tree Physiology) is in `predict.R`
 ## Reference
